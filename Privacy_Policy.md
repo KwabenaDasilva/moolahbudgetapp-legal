@@ -6,7 +6,7 @@ At Moolah BudgetApp, we value your privacy and are committed to protecting your 
 1. Who We Are
 Moolah BudgetApp is operated by an individual owner based in Rotherham, UK. For any questions or concerns regarding this Privacy Policy, please contact us:
 
-Email: manuelarthur12@gmail.com or TheTeam@moolahbudgetapp.com
+Email: TheTeam@moolahbudgetapp.com
 2. Data We Collect
 We collect the following personal information from our users:
 
