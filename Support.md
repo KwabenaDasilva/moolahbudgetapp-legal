@@ -14,7 +14,7 @@ FAQs
 Reporting Issues or Bugs
 If you face any technical problems or want to report bugs:
 
-Go to our GitHub Issues page: https://github.com/YourUsername/YourRepository/issues
+Go to our GitHub Issues page: https://github.com/KwabenaDasilva/MBASupport/Issues
 Create a new issue and provide the following details:
 App version and device (e.g., iPhone 14, iOS 17.3)
 A description of the problem
@@ -30,23 +30,15 @@ App Store Support
 If you downloaded our app via the App Store, you can also report issues or get help:
 
 Open the App Store on your device.
-Find [Your App Name] in your purchases or search.
+Find MBA in your purchases or search.
 Use the App Support link provided.
-Community Support
-Join our growing community to share feedback or ask questions:
 
-Community Forum: https://community.yourwebsite.com
-Legal & Privacy
-For privacy-related concerns:
 
-Review our Privacy Policy: https://www.yourwebsite.com/privacy
+Review our Privacy Policy: https://kwabenadasilva.github.io/moolahbudgetapp-legal/Privacy_Policy.md
 For terms and conditions:
 
-View our Terms of Service: https://www.yourwebsite.com/terms
-Thank you for using [Your App Name]!
+View our Terms of Service: [https://www.yourwebsite.com/terms](https://kwabenadasilva.github.io/moolahbudgetapp-legal/Terms_and_Conditions.md)
+Thank you for using MBA!
 We are committed to providing the best experience and are here to help.
 
-Customizable Sections
-Replace [Your App Name], [support@yourdomain.com], [YourUsername/YourRepository], and other placeholders with your actual details.
-Add or remove links depending on your resources.
-This file ensures your users and App Store reviewers have a clear path for reporting issues, seeking help, and understanding your app's support structure. 🚀
+
