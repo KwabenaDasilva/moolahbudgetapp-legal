@@ -1,69 +1,149 @@
-Updated Privacy Policy for Moolah BudgetApp
-Last Updated: 30OCT2024
+# Updated Privacy Policy for Moolah BudgetApp  
+**Last Updated: 17 DEC 2024**  
 
-At Moolah BudgetApp, we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, share, and safeguard your information. By using Moolah BudgetApp, you agree to the terms outlined in this Privacy Policy.
+At **Moolah BudgetApp**, we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, share, and safeguard your information. By using Moolah BudgetApp, you agree to the terms outlined in this Privacy Policy.  
 
-1. Who We Are
-Moolah BudgetApp is operated by an individual owner based in Rotherham, UK. For any questions or concerns regarding this Privacy Policy, please contact us:
+---
 
-Email: TheTeam@moolahbudgetapp.com
+## 1. Who We Are  
+Moolah BudgetApp is operated by an individual owner based in Rotherham, UK. For any questions or concerns, please contact:  
 
-2. Data We Collect
-We collect the following personal information from our users:
+**Email:** [TheTeam@moolahbudgetapp.com](mailto:TheTeam@moolahbudgetapp.com)  
 
-Email Address
-Name
-Profile Picture (optional, if provided by the user)
-Device Information
-Usage Data related to app interactions and preferences, including reminders and notifications.
-3. How We Collect Data
-We collect your personal data when you:
+---
 
-Register for an account with Moolah BudgetApp.
-Use the app, which automatically collects certain device information and usage data.
-Set reminders, notifications, and other customizations within the app.
-Interact with advertisements displayed by third-party ad networks within the app.
-4. How We Use Your Data
-We use your data for the following purposes:
+## 2. Data We Collect  
+We collect the following data from our users:  
+- **Personal Information:**  
+  - Email address  
+  - Name  
+  - Profile picture (optional)  
 
-Service Provision: To provide and maintain the functionality of Moolah BudgetApp, including notifications, reminders, and other app features.
-User Account Management: To allow you to manage your account, personalize your experience, and update your profile, including your profile picture.
-Notifications and Reminders: To send reminders and notifications based on your preferences for scheduled payments, category alerts, and other financial planning features.
-Analytics: To understand how users interact with our app and improve the user experience.
-Marketing: We may use your data to inform you about features, promotions, and advertisements related to Moolah BudgetApp and our partners.
-Advertising: Your data may be used to show you personalized advertisements, depending on your preferences.
-5. Third-Party Advertisements
-Moolah BudgetApp includes advertisements from third-party ad networks, such as Google AdMob. These third-party advertisers may collect and use information from your device, such as your IP address, device ID, and usage patterns, to serve relevant ads. The data collected by third-party advertisers is governed by their own privacy policies. You can manage your preferences regarding personalized ads in your device settings or within the app.
+- **App Data:**  
+  - Budget categories, items, and related financial data (income, savings, investments).  
+  - Notification preferences, reminders, and scheduled dates.  
+  - Custom savings goals and investments information, including target dates and amounts.  
 
-We also offer non-personalized ads based on user preferences in certain regions, such as the European Union, where users may have the option to opt out of personalized advertising.
+- **Technical Information:**  
+  - Device information (e.g., OS version, device ID)  
+  - Usage data related to app features, including interactions with reminders, settings, and linked articles.  
 
-6. Data Sharing
-We may share your data with:
+- **Analytics and Preferences:**  
+  - Interaction data for in-depth summaries, notifications, and insights pages.  
+  - Month and year selections, category usage, and item notes.  
 
-Third-Party Service Providers: We work with companies that provide analytics and advertising services to help us understand how our app is used and to display relevant advertisements.
-Legal Compliance and Protection: We may disclose your data if required by law or to protect the rights, property, or safety of Moolah BudgetApp, our users, or others.
-7. Data Retention
-We retain your personal data only as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law. Users may request deletion of their account and data by contacting us at TheTeam@moolahbudgetapp.com or through the app.
+- **In-App Purchases:**  
+  - Transaction data (handled securely via Google Play or RevenueCat).  
 
-8. Your Rights
-Under the UK General Data Protection Regulation (GDPR), you have the right to:
+---
 
-Access: Request a copy of your personal data.
-Rectification: Correct any inaccurate or incomplete data we hold about you.
-Erasure: Request deletion of your personal data.
-Manage Notifications: Enable, disable, or adjust your notification settings within the app.
-You can exercise these rights by contacting us at TheTeam@moolahbudgetapp.com.
+## 3. How We Collect Data  
+We collect data when you:  
+- **Sign up or log in** to Moolah BudgetApp.  
+- **Use core features** like creating budget categories, tracking savings goals, or managing investments.  
+- **Schedule notifications or reminders** for category items or payments.  
+- **Engage with new features** like shared budgeting, insights articles, and subscription tracking.  
+- **Make in-app purchases**, including subscription management via third-party providers.  
+- **Interact with advertisements**, either personalized or non-personalized.  
 
-9. Security of Your Data
-We take the security of your personal data seriously. Moolah BudgetApp uses Google Firebase services for data storage and authentication, which provides industry-standard security measures, including encryption and regular security audits. Additionally, notification and reminder data are securely managed within Firebase to ensure your preferences remain private.
+---
 
-10. Children’s Privacy
-Moolah BudgetApp is not intended for children under 16. We do not knowingly collect personal information from children under 16. If you are aware that a child under 16 has provided us with personal data, please contact us so we can take appropriate action.
+## 4. How We Use Your Data  
+We use your data to:  
+1. **Deliver Core Features:**  
+   - Budget management (income, savings, investments, goals, categories).  
+   - Notifications and reminders for payments, savings targets, or due dates.  
+   - Shared budgeting features with permissions.  
 
-11. Changes to Our Privacy Policy
-We may update this Privacy Policy from time to time. If there are any significant changes, we will notify you by email. Please review this Privacy Policy periodically to stay informed of any updates.
+2. **Improve User Experience:**  
+   - Analytics to refine app features, summaries, and user interactions.  
+   - Personalized dashboards and widget customization.  
 
-12. Contact Us
-If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us:
+3. **Enable Insights:**  
+   - Access and share useful financial articles, links, and money-related tips.  
 
-Email: TheTeam@moolahbudgetapp.com
+4. **In-App Purchases:**  
+   - Manage subscriptions via third-party providers like RevenueCat.  
+
+5. **Marketing and Ads:**  
+   - Show personalized or non-personalized ads, depending on your region and preferences.  
+
+6. **Compliance and Security:**  
+   - Ensure app security, legal compliance, and protection of your data.  
+
+---
+
+## 5. Third-Party Integrations and Ads  
+We work with trusted third parties:  
+
+- **Google AdMob** and other advertising networks:  
+  - May collect device IDs, IP addresses, and app interaction data.  
+  - Ads can be **personalized** or **non-personalized**, depending on user preferences and GDPR compliance.  
+
+- **RevenueCat** for subscription management.  
+
+- **Google Firebase** for secure data storage, authentication, and notifications.  
+
+All third-party services follow their own privacy policies.  
+
+---
+
+## 6. Data Sharing  
+Your data may be shared with:  
+- **Service Providers:** For analytics, ads, or transaction processing.  
+- **Legal Entities:** When required by law or to protect app security and rights.  
+- **Shared Budgets:** If you opt to collaborate with other users, shared data will follow your permissions.  
+
+---
+
+## 7. Data Retention  
+We retain your data only as long as necessary for:  
+- Providing the app’s features.  
+- Legal compliance.  
+
+You can **request deletion** of your account and data by contacting [TheTeam@moolahbudgetapp.com](mailto:TheTeam@moolahbudgetapp.com) or using the app’s account management options.  
+
+---
+
+## 8. Your Rights  
+Under **UK GDPR**, you have the right to:  
+- **Access:** Request a copy of your personal data.  
+- **Rectify:** Correct any inaccuracies in your data.  
+- **Erase:** Request deletion of your data.  
+- **Manage Notifications:** Customize reminders, notifications, and preferences.  
+- **Opt-Out of Ads:** Disable personalized ads through app or device settings.  
+
+Contact us at [TheTeam@moolahbudgetapp.com](mailto:TheTeam@moolahbudgetapp.com) to exercise your rights.  
+
+---
+
+## 9. Data Security  
+We secure your data using:  
+- **Google Firebase** with encrypted storage and authentication.  
+- Regular security audits to maintain app integrity.  
+- Secure handling of notifications, savings goals, and investment tracking data.  
+
+---
+
+## 10. In-App Purchases  
+For **subscriptions** and **transactions**, we use RevenueCat and Google Play Services. Payment information is not stored by Moolah BudgetApp but handled securely by these third parties.  
+
+---
+
+## 11. Children’s Privacy  
+Moolah BudgetApp is not intended for users under **16 years of age**. If we become aware of data collected from a minor, we will take immediate action to delete it.  
+
+---
+
+## 12. Changes to This Privacy Policy  
+We may update this Privacy Policy periodically. If changes are significant, we will notify you via email.  
+
+---
+
+## 13. Contact Us  
+If you have any questions or concerns:  
+**Email:** [TheTeam@moolahbudgetapp.com](mailto:TheTeam@moolahbudgetapp.com)  
+
+---
+
+This Privacy Policy reflects the features and services currently offered in Moolah BudgetApp, including notifications, subscriptions, insights, and shared budgeting. It ensures transparency and compliance with relevant regulations.
