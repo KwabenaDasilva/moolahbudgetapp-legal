@@ -1,5 +1,5 @@
 # Cookies and Tracking Policy  
-**Last Updated: 18 OCT 2024**  
+**Last Updated: 17 DEC 2024**  
 
 ## Introduction  
 Moolah BudgetApp ("we", "our", "us") respects your privacy and is committed to protecting your personal data. This Cookies and Tracking Policy explains our approach to cookies and similar tracking technologies, including their future use in the app.  
