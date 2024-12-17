@@ -1,41 +1,68 @@
-Cookies and Tracking Policy
-Last Updated: 18OCT2024
+# Cookies and Tracking Policy  
+**Last Updated: 18 OCT 2024**  
 
-Introduction
-MoolahBudgetApp ("we", "our", "us") respects your privacy and is committed to protecting your personal data. This Cookies and Tracking Policy explains how we use cookies and similar tracking technologies when you use our app.
+## Introduction  
+Moolah BudgetApp ("we", "our", "us") respects your privacy and is committed to protecting your personal data. This Cookies and Tracking Policy explains our approach to cookies and similar tracking technologies, including their future use in the app.  
 
-What Are Cookies?
-Cookies are small data files stored on your device (computer, smartphone, tablet, etc.) that help websites and apps remember information about your visit, like your language preference and other settings. Tracking technologies like cookies can also help us understand how you interact with our app.
+---
 
-Why Do We Use Cookies and Tracking Technologies?
-We use cookies and similar tracking technologies for the following purposes:
+## **Current Use of Cookies**  
+As of now, **Moolah BudgetApp does not use cookies or similar tracking technologies** in the app. However, this policy is provided as a placeholder for transparency and to outline how such technologies may be used in the future, if applicable.  
 
-App Performance and Functionality: To ensure our app works correctly and to remember your preferences (e.g., currency settings).
-Analytics and Performance Tracking: To understand how users interact with our app, diagnose problems, and improve the app's performance. For this purpose, we may use third-party analytics services such as Google Analytics for Firebase.
-Security: To maintain the security of the app and help identify potential risks.
-User Authentication: To recognize and keep you logged into the app, improving your experience.
-Types of Cookies We Use
-We use the following types of cookies in our app:
+---
 
-Essential Cookies: These cookies are necessary for the app to function properly, such as keeping you logged in or maintaining your session.
+## **Why We Might Use Cookies and Tracking Technologies**  
+In the future, we may use cookies or similar tracking technologies for the following purposes:  
 
-Performance Cookies: These cookies collect anonymous data on how you use the app, helping us improve the app's performance and usability.
+1. **App Performance and Functionality**  
+   - To remember your preferences (e.g., currency settings) and improve the app's usability.  
 
-Security Cookies: These cookies ensure that your personal data is handled securely and that unauthorized access is prevented.
+2. **Analytics and Performance Tracking**  
+   - To understand how users interact with our app and diagnose problems. Tools like Google Analytics for Firebase may be introduced for anonymous analytics.  
 
-Third-Party Cookies
-We may also allow third-party services like Firebase and Google Analytics to place cookies or similar technologies on your device. These cookies help us understand how users interact with our app, which allows us to improve the user experience.
+3. **Security**  
+   - To enhance the security of the app and help prevent unauthorized access.  
 
-You can learn more about how Google uses cookies and how they work with Firebase by visiting: Google's Privacy Policy and Firebase Privacy Policy.
+4. **User Authentication**  
+   - To recognize and keep you logged into the app, providing a seamless experience.  
 
-How to Manage Cookies
-You can control and manage cookies in various ways. Most browsers and mobile devices allow you to block or delete cookies through their settings. However, doing so may affect how our app functions, and some features may not work as intended.
+---
 
-Your Consent
-By using our app, you consent to the use of cookies and tracking technologies as described in this policy. If you do not agree to the use of these technologies, you should stop using the app or adjust your settings to disable cookies.
+## **Types of Cookies (Placeholder)**  
+Should we implement cookies, they may fall under the following categories:  
 
-Changes to this Policy
-We may update this Cookies and Tracking Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify users of any significant updates by updating the "Last Updated" date at the top of this policy.
+- **Essential Cookies:** Required for the app’s core functionality, such as authentication.  
+- **Performance Cookies:** To analyze app usage and performance.  
+- **Security Cookies:** To secure user data and prevent unauthorized access.  
 
-Contact Us
-If you have any questions or concerns about this Cookies and Tracking Policy, please contact us at TheTeam@moolahbudgetapp.com.
+---
+
+## **Third-Party Cookies (Placeholder)**  
+If third-party services like **Firebase** or **Google Analytics** are used, they may set cookies or similar technologies to collect usage data. These services would be subject to their own privacy policies:  
+
+- [Google Privacy Policy](https://policies.google.com/privacy)  
+- [Firebase Privacy Policy](https://firebase.google.com/support/privacy)  
+
+---
+
+## **Managing Cookies and Consent**  
+When cookies are implemented:  
+- You will be notified and provided the option to accept or reject cookies.  
+- You will be able to manage cookie preferences in the app or through your device settings.  
+
+---
+
+## **Your Consent**  
+As of now, cookies are not in use. By continuing to use Moolah BudgetApp, you acknowledge this policy and agree to updates when cookies are implemented in the future.  
+
+---
+
+## **Changes to this Policy**  
+We may update this policy periodically. If cookies or tracking technologies are introduced, we will update this policy and notify you. Please review this policy regularly for updates.  
+
+---
+
+## **Contact Us**  
+If you have any questions or concerns about this Cookies and Tracking Policy, please contact us:  
+
+**Email:** [TheTeam@moolahbudgetapp.com](mailto:TheTeam@moolahbudgetapp.com)  
