@@ -1,5 +1,5 @@
 # Updated Terms and Conditions for Moolah BudgetApp  
-**Last Updated: 30 OCT 2024**  
+**Last Updated: 17 DEC 2024**  
 
 Welcome to Moolah BudgetApp! These Terms and Conditions govern your use of the Moolah BudgetApp (the “App”), which is operated by Moolah BudgetApp (“we,” “us,” or “our”). By downloading, accessing, or using the App, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use the App.  
 
